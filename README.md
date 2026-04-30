@@ -1,4 +1,4 @@
-# ⛰️ rsa-turismo
+# ⛰️ rsa-turismo - meu projeto
 
 > "Plataforma web para promover o turismo responsável no Brasil, oferecendo roteiros, guias e informações culturais."
 
